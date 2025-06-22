@@ -1,7 +1,8 @@
 
 # 💰 Learning About Money with Max
 
-![Learning About Money with Max](A_colorful_educational_illustration_titled_"Learni.png)
+![Learning About Money with Max](kids_money_max.png)
+
 
 ## 👋 Meet Max
 Max is 8 years old and loves selling lemonade. Through his lemonade stand, he learns about money and how it works. Let’s learn with Max!
